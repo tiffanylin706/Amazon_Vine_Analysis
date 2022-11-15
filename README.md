@@ -30,7 +30,7 @@ The results reduced the total number of reviews from 3M to 50.7K. This allowed u
 
 * **Vine** members made up only 0.2% (94) of the reviews whereas the remaining 99.8% were **Non-Vine** members (40,471).
 
-![VineNonVineTotal] (https://github.com/tiffanylin706/Amazon_Vine_Analysis/blob/2d21716aac6ed03bba2828af76e2b10dd699be7c/Resources/%232.png)
+![VineNonVineTotal](https://github.com/tiffanylin706/Amazon_Vine_Analysis/blob/2d21716aac6ed03bba2828af76e2b10dd699be7c/Resources/%232.png)
 
 ![vine](https://github.com/tiffanylin706/Amazon_Vine_Analysis/blob/2d21716aac6ed03bba2828af76e2b10dd699be7c/Resources/%233.png)
 
